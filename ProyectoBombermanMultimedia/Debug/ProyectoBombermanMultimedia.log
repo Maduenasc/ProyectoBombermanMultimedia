@@ -1,0 +1,30 @@
+﻿  Juego.cpp
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Nivel.h(28,1): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Nivel.h(28,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorBombas.h(32,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorBombas.h(51,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorPowerups.h(47,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorMonstruos.h(34,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorMonstruos.h(58,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(131,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Juego.h(180,53): warning C4018: '<': no coinciden signed/unsigned
+  MenuDeJuego.cpp
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Nivel.h(28,1): warning C4353: se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Nivel.h(28,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorBombas.h(32,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorBombas.h(51,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorPowerups.h(47,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorMonstruos.h(34,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\VectorMonstruos.h(58,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(67,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Sistema.h(131,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Juego.h(180,53): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\MenuDeJuego.h(249,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Juego.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoBombermanMultimedia.vcxproj -> C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\Debug\ProyectoBombermanMultimedia.exe

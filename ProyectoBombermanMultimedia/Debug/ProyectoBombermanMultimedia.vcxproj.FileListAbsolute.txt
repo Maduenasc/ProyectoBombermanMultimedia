@@ -1,0 +1,4 @@
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Debug\ProyectoBombermanMultimedia.Juego.resources
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Debug\ProyectoBombermanMultimedia.MenuDeJuego.resources
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Debug\ProyectoBombermanMultimedia.vcxproj.GenerateResource.cache
+C:\Users\xxodd\source\repos\ProyectoBombermanMultimedia\ProyectoBombermanMultimedia\Debug\ProyectoBombermanMultimedia.vcxprojAssemblyReference.cache
